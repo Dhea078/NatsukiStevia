@@ -62,8 +62,8 @@ from Natsuki.modules.helper_funcs.chat_status import is_user_admin
 from Natsuki.modules.helper_funcs.misc import paginate_modules
 from Natsuki.modules.helper_funcs.readable_time import get_readable_time
 
-PM_START_TEXT = """
-👋 Hey There, My Name is 𝗡𝗮𝘁𝘀𝘂𝗸𝗶. 
+PM_START_TEXT = """ [ ] (https://telegra.ph/file/9346deb7942bf572158d6.jpg)
+👋 Hey There, My Name is Stevia. 
 I'm a Powerfull Group Manager Bot With Cool Modules. feel free to add me to your groups!
 """
 
@@ -92,7 +92,7 @@ buttons = [
     ],
 ]
 
-NATSUKI_IMG = "https://telegra.ph/file/2d0fa7e07eb1fe3983aba.jpg"
+NATSUKI_IMG = "https://telegra.ph/file/9346deb7942bf572158d6.jpg"
 
 HELP_STRINGS = f"""
 *Main Commands :* [🤖](https://telegra.ph/file/2d0fa7e07eb1fe3983aba.jpg)
